@@ -19,3 +19,4 @@ Experience the synergy of technology and nature with our weather app, where HTML
 
 <a>https://the-xghost.github.io/WeatherApp/</a>
 
+.
